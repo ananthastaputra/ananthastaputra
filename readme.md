@@ -6,7 +6,7 @@ reactjs and nodejs developer
 
 I love to code, having strong knowledge in HTML,CSS,JS and also frameworks/libraries like Reactjs,Extjs,Express having great experience in building single page applications and also in debugging large scale applications.
 
-*   🌍  I'm based in Tirupati
+*   🌍  Tirupati,Andhrapradesh,India.
 *   ✉️  You can contact me at [ananthastaputra01@gmail.com](mailto:ananthastaputra01@gmail.com)
 *   🧠  I'm learning Nextjs, redis, nodejs microservices
 *   🤝  I'm open to collaborating on reactjs, simple websites### Skills<p align="left">
